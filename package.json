@@ -1,0 +1,27 @@
+{
+  "name": "virtual-keyboard",
+  "version": "1.0.0",
+  "description": "Educational project virtual keyboard RS school stage 1- 2022Q1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/PartyZzzan77/virtual-keyboard-2022q1.git"
+  },
+  "keywords": [
+    "RS",
+    "school",
+    "virtual",
+    "keyboard",
+    "webpack",
+    "stage1"
+  ],
+  "author": "PartyZzzan77",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PartyZzzan77/virtual-keyboard-2022q1/issues"
+  },
+  "homepage": "https://github.com/PartyZzzan77/virtual-keyboard-2022q1#readme"
+}
