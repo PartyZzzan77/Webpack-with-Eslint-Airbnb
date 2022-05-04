@@ -1,1 +1,1 @@
-# Webpack config with eslint airbnb
+# Webpack config with eslint airbnb 🔍
